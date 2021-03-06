@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Camera</string>
+
+    <string name="camera_fragment">camera fragment</string>
+
+    <string name="capture_button_alt">Capturar</string>
+    <string name="switch_camera_button_alt">Trocar câmera</string>
+    <string name="gallery_button_alt">Galeria</string>
+    <string name="back_button_alt">Voltar</string>
+    <string name="share_button_alt">Compartilhar</string>
+    <string name="share_hint">Compartilhe usando</string>
+    <string name="capture_mode_camera">Camera</string>
+    <string name="capture_mode_hdr">HDR</string>
+    <string name="capture_mode_night">Night</string>
+    <string name="delete_button_alt">Remover</string>
+    <string name="delete_dialog">Remover a foto?</string>
+    <string name="delete_title">Confirme</string>
+
+    <!--Permissões-->
+    <string name="main_message_activity_permission_rational">Acesso à câmera do telefone</string>
+    <string name="details_message_activity_permission_rational">A experiência deste aplicativo requer acesso à câmera do telefone para capturar e armazenar imagens.</string>
+    <string name="no_thanks_activity_permission_rational">Não Obrigado</string>
+    <string name="continue_activity_permission_rational">Continuar</string>
+
+</resources>
